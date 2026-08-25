@@ -1,0 +1,1 @@
+Songebob_Databob.Quelle: https://nyu-dataservices.gitlab.io/rdm-instruction/basics-of-data-management.html
