@@ -1,0 +1,8 @@
+---
+title: "WebsiteGit Hub Workshop Repo"
+---
+grummich@zbmed.de
+Cologne
+
+![img/datamgmt.gif](/img/datamgmt.gif)
+Datei [verlinken](../src/Git Bash Befehle.docx)
